@@ -8,6 +8,21 @@ html,body{
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*LOGIN*/
 .form-container{
     max-width: 400px;
@@ -24,10 +39,30 @@ html,body{
     margin-top: -48px;
     right: 15px;
 }
-
-
-
 /*LOGIN*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*ASSISTIDOS*/
+div.assistidos div div.card div.card-body table tr td:first-child{
+    font-weight: 600;
+    font-size: 1em;
+    padding-right: 1.5em;
+}
+/*ASSISTIDOS*/
+
+
+
 
 
 
